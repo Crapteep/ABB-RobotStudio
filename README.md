@@ -16,6 +16,7 @@ A simple program for drawing/engraving/laser cutting with an industrial robot. C
 3. [How to open project](#How-to-open-project)
 4. [How to install](#how-to-install)
 5. [Ideas to develop](#Ideas-to-develop)
+6. [Screenshots](#Screenshots)
 
 ## Project description
 The project was entirely created using ABB RobotStudio with RobotWare v6.13.03.
@@ -48,3 +49,5 @@ The project was entirely created using ABB RobotStudio with RobotWare v6.13.03.
 ## Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/Crapteep/ABB-RobotStudio/main/views/view1.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Crapteep/ABB-RobotStudio/main/views/view2.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Crapteep/ABB-RobotStudio/main/views/view3.jpg)
