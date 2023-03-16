@@ -45,4 +45,6 @@ The project was entirely created using ABB RobotStudio with RobotWare v6.13.03.
 - Notification of finished work
 - Adding security in the form of stopping the robot's work when the door is opened, an unexpected error occurs or the safety button is pressed
 
-##
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Crapteep/ABB-RobotStudio/main/views/view1.jpg)
